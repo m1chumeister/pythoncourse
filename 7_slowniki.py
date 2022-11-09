@@ -35,3 +35,7 @@ print(worker)
 '''
 utwórz program totolotek, użytkownik podaje 6 liczb
 '''
+
+print(---------------)
+
+import random
